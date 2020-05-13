@@ -1,0 +1,13 @@
+{
+    "type": 2,
+    "title": "PingFederate",
+    "description": "PingFederate Description",
+    "note": "PingFederate Note",
+    "categories": ["Standalone"],
+    "platform": "linux",
+    "logo": "https://www.pingidentity.com/content/dam/ping-6-2-assets/topnav-json-configs/Ping-Logo.svg",
+    "repository": {
+      "url": "https://github.com/gmorgan-ping/portainer",
+      "stackfile": "standalone/pingfederate/docker-compose.yaml"
+    }
+  }
